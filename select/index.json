@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "罪と罰とアングラ (『風都探偵』主題歌)",
+  "base_artist": "松岡 充",
+  "createdAt": "2025-12-10T01:39:19.218652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "罪と罰とアングラ - 『風都探偵』主題歌",
+      "artist": "松岡 充",
+      "has_synced": true,
+      "path": "select/01_罪と罰とアングラ_-_『風都探偵』主題歌_松岡_充.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "罪と罰とアングラ (『風都探偵』主題歌)",
+      "artist": "松岡 充",
+      "has_synced": false,
+      "path": "select/pl_01_罪と罰とアングラ_(『風都探偵』主題歌)_松岡_充.txt"
+    }
+  ]
+}
